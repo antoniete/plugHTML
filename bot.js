@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "loralie";
+    var fork = "routtre";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -89,7 +89,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: "Redes sociais em breve :sparkles:",
+      motd: "RAAAAAAAAN, pau no cu do mundo! :kiss: :sparkles:",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
