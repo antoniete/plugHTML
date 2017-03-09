@@ -78,11 +78,11 @@
       usercommandsEnabled: true,
       skipPosition: 1,
       skipReasons: [
-      ["theme", "Essa música não está de acordo com as regras da sala, toca outra pra nós mana. "],
+      ["theme", "Essa música não está de acordo com as regras da sala, toca outra pra nós more. "],
       ["op", "This song is on the OP list. "],
-      ["history", "Vixe! Essa música ainda tá no histórico, toca outra pra nós mana. "],
+      ["history", "Vixe! Essa música ainda tá no histórico, toca outra pra nós more. "],
       ["mix", "You played a mix, which is against the rules. "],
-      ["sound", "Epa! Essa música contém conteúdo NSFW, toca outra pra nós mana. "],
+      ["sound", "Epa! Essa música contém conteúdo NSFW, toca outra pra nós more. "],
       ["unavailable", "Infelizmente essa música está indisponivel para alguns usuários... "]
       ],
       afkpositionCheck: 15,
