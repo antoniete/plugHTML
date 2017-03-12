@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "Isa Popozão",
+      botName: "Merchantt",
       language: "portuguese",
       chatLink: "https://rawgit.com/antoniete/plugHTML/master/langGA.json",
       scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
