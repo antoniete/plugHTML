@@ -89,7 +89,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: "RAAAAAAAAN, pau no cu do mundo! :kiss: :sparkles:",
+      motd: "Nunca ame uma vadia. :sparkles:",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
