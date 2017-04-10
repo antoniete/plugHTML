@@ -1,17 +1,17 @@
 {
-    "room": "Let's Dance",
-    "author": "Casanova",
-    "icon": null,
-    "css": "https://cdn.radiant.dj/rcs/rs_room.css",
+    "room":                     "PLugayras",
+    "author":                   "Coasti",
+    "icon":                     null,
+    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
-        "allowAutorespond": true,
-        "allowAutowoot": true,
-        "allowAutojoin": true,
-        "allowAutograb": true,
-        "allowSmartVote": true,
-        "allowEmotes": true,
-        "allowShowingMehs": true,
-        "forceSmartVote": false
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        false,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
     },
     "ccc": {
         "admin": null,
@@ -38,7 +38,7 @@
         "rdj": "http://i.imgur.com/JbBKezR.png",
         "subscriber": null,
         "silversubscriber": null,
-    },
+},
     "emotes": {
       ".v.": "https://i.imgur.com/C79uctl.gif",
       "100%": "https://i.imgur.com/nhz07pH.jpg",
@@ -415,3 +415,4 @@
       "viadão2": "http://i.imgur.com/9ZfaeCS.png"
  }
 }
+    
