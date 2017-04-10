@@ -14,29 +14,33 @@
         "forceSmartVote":       false
     },
     "ccc": {
-        "admin":                null,
-        "ambassador":           null,
-        "host":                 "#db182e",,
+        "admin":                "#42A5DC",
+        "ambassador":           "#84B423",
+        "host":                 null,
         "cohost":               "#F3508F",
-        "manager":              "#ef5636",
-        "bouncer":              null,
+        "manager":              "#F3508F",
+        "bouncer":              "#F3508F",
         "rdj":                  "#5DB4FF",
-        "subscriber":           null,
-        "silversubscriber":     null,
-        "friend":               null,
-        "user":                 "#8B92A3",
+        "subscriber":           "#A1A6B3",
+        "silversubscriber":     "#A1A6B3",
+        "friend":               "#B35D88",
+        "user":                 "#8B92A3"
     },
     "images": {
         "background":           "https://cdn.radiant.dj/rcs/bg/2k15sea.jpg",
         "playback":             null,
-        "admin":                null,
-        "ambassador":           null,
-        "host":                 "http://i.imgur.com/E4s3EDj.png",
-        "cohost":               "http://i.imgur.com/xzem754.png",
-        "manager":              "http://i.imgur.com/cTmPChQ.png",
+        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":                 null,
+        "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
+        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber":           null,
-        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png",
+        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+  
+    },
+    "emotes": {
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
     }
 }
