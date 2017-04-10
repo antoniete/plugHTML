@@ -2,7 +2,7 @@
     "room": "Plugayras",
     "author": "Coasti",
     "icon": null,
-    "css": "https://cdn.radiant.dj/rcs/rs_room.cs",
+    "css": "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
