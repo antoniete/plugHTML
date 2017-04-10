@@ -1,0 +1,45 @@
+{
+    "room": "Plugayras",
+    "author": "Coasti",
+    "icon": null,
+    "css": "https://cdn.radiant.dj/rcs/rs_room.cs",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#db182e",
+        "cohost": "#F3508F",
+        "manager": "#ef5636",
+        "bouncer": null,
+        "rdj": "#5DB4FF",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": "#cc3442",
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/2k15sea.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "http://i.imgur.com/E4s3EDj.png",
+        "cohost": "http://i.imgur.com/xzem754.png",
+        "manager":  "http://i.imgur.com/cTmPChQ.png",
+        "bouncer": "http://i.imgur.com/JbBKezR.png",
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
