@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "routtre";
+    var fork = "monteapril";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "DJ Iron",
       language: "portuguese",
-      chatLink: "https://rawgit.com/antoniete/plugHTML/master/langGA.json",
+      chatLink: "https://rawgit.com/monteapril/plugHTML/master/langGA.json",
       scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 200, // 1-200
