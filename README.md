@@ -1,3 +1,2 @@
 # plugBOT
-
-Created by Benzi and reformulated by Routtre.
+Created by Benzi and reformulated by Montreal.
