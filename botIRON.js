@@ -48,8 +48,8 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "DJ Iron",
       language: "portuguese",
-      chatLink: "https://rawgit.com/monteapril/plugHTML/master/langIRON.json",
-      scriptLink: "https://rawgit.com/monteapril/plugHTML/master/botIRON.js",
+      chatLink: "https://rawgit.com/monteapril/plugHTML/master/langGA.json",
+      scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 200, // 1-200
       startupVolume: 100, // 0-100
@@ -111,6 +111,6 @@
     }));
 
     // Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/monteapril/plugHTML/master/botIRON.js", extend);
+    $.getScript("https://rawgit.com/bscBot/source/master/basicBot.js", extend);
 
 }).call(this);
